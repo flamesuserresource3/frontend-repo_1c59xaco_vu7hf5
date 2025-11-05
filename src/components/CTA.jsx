@@ -16,13 +16,13 @@ export default function CTA() {
                 Tell us about your goals and we’ll propose a fast, pragmatic roadmap to automate the right workflows first.
               </p>
               <div className="mt-6 flex flex-col sm:flex-row gap-3">
-                <a href="mailto:hello@brightsideauto.ai" className="inline-flex items-center justify-center rounded-md bg-white text-neutral-900 px-6 py-3 font-medium shadow hover:opacity-90 transition">
-                  hello@brightsideauto.ai
+                <a href="mailto:aryansingh8117@gmail.com" className="inline-flex items-center justify-center rounded-md bg-white text-neutral-900 px-6 py-3 font-medium shadow hover:opacity-90 transition">
+                  aryansingh8117@gmail.com
                   <ArrowRight size={18} className="ml-2" />
                 </a>
-                <a href="tel:+10000000000" className="inline-flex items-center justify-center rounded-md border border-white/20 px-6 py-3 font-medium text-white hover:bg-white/10 transition">
+                <a href="tel:+919315692224" className="inline-flex items-center justify-center rounded-md border border-white/20 px-6 py-3 font-medium text-white hover:bg-white/10 transition">
                   <Phone size={18} className="mr-2" />
-                  Book a discovery call
+                  +91 93156 92224
                 </a>
               </div>
               <p className="mt-3 text-xs text-neutral-400">Average kickoff in 7 days. Month-to-month engagement.</p>
